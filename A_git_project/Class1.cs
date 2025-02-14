@@ -17,7 +17,4 @@ namespace A_git_project
             Class1 c = new Class1();
             c.Method1();
             Console.WriteLine("Hello, World!");
-        }
-    }
-
-}
+            Console.WriteLine("Hi Ajay");
